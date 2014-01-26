@@ -72,7 +72,7 @@ public strictfp class App<T, E1, E2> implements Cloneable{
 	// 常量的命名要求是全全大写，单词之间用下划线_隔开
 	// 像集合/数组/map类的对象由于可以随时改变其内容，可以不认为是常量，也就是不用遵循上面的命名规范而是使用一般变量的规范
 	// 日志也可以不认为是常量，可以用小写
-	private static final String TEXT = "hello git@oschina !";
+	private static final String TEXT = "hello github !";
 	
 	// 非常量的变量命名规范一律使用小写字母开头的lowerCamelCase
 	// 一般来说变量的名称是个名词或者名词词组, 比如这里的appName, 是值app名称
